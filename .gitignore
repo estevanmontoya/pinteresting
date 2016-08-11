@@ -19,5 +19,5 @@
 
 # Ignore Byebug command history file.
 .byebug_history
-ssh-keygen -t rsa -b 4096 -C "montoya.estevan@gmail.com"
-ssh-keygen -t rsa -b 4096 -C "montoya.estevan@gmail.com".pub
+/ssh-keygen -t rsa -b 4096 -C "montoya.estevan@gmail.com"
+/ssh-keygen -t rsa -b 4096 -C "montoya.estevan@gmail.com".pub
